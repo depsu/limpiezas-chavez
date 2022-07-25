@@ -261,6 +261,7 @@ body {
     padding-right: 20px;
     text-decoration: none;
     color: rgb(255, 255, 255);
+    font-weight: 700;
 }
 
 
@@ -271,7 +272,8 @@ body {
 }
 
 .nav.abajo .titulos-nav a {
-    color: #000;
+    color: #333333;
+
 }
 
 .logo2 {}
