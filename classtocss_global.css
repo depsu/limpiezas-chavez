@@ -1,0 +1,5 @@
+/**
+* The classToCSS plugin automatically generates global style
+* Changes are invalid and will be overwritten
+*/
+.text-center { text-align: center; } 
