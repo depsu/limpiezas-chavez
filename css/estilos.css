@@ -276,7 +276,7 @@ body {
 
 }
 
-.logo2 {}
+
 
 .nav.abajo .logo1 {
     display: none;
@@ -314,6 +314,8 @@ nav>a:hover {
 }
 
 .textos-header h2 {
+    padding-top: 1em;
+    font-weight: bold;
     font-size: 30px;
     font-weight: 300;
     color: #fff;
